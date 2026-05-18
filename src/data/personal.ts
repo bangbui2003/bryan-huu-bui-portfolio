@@ -5,6 +5,7 @@ export const personal = {
   bio: "Fullstack developer with 1+ year of engineering experience across frontend development, serverless APIs, async processing, and database optimization. Strong foundation in Next.js, React, TypeScript, Node.js, and AWS.",
   email: "buihuubang123@gmail.com",
   phone: "(+84) 775197200",
+  portfolio: "https://bryan-huu-bui.vercel.app",
   github: "https://github.com/bangbui2003",
   linkedin: "https://linkedin.com/in/bang-bui-b0b061326",
   cv: "/cv.pdf",
